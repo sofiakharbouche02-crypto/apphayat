@@ -9,7 +9,7 @@ st.set_page_config(
     page_icon="🫀",
     layout="centered"
 )
-st.title("🩺 Application de prédiction du risque de maladie cardiaque (CHD)")
+st.title("🩺 Application de prédiction du risque de maladie cardiaque (CHD) par Hayat WALDI")
 st.write("""
 Cette application web a été **développée avec VS Code** et déployée avec **Streamlit**.
 Elle utilise un modèle de Machine Learning déjà entraîné et sauvegardé dans `Model.pkl`
